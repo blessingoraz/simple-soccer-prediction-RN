@@ -13,5 +13,5 @@ export default AppNav = createSwitchNavigator({
     Home: HomeScreen,
     SignIn: SignInScreen
   }, {
-    initialRouteName: 'Login'
+    initialRouteName: 'Home'
   });
