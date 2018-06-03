@@ -9,7 +9,6 @@ export default class App extends React.Component {
   };
 
   render() {
-    console.log('IS App here ====', AppNav);
     if (!this.state.isReady) {
       return (
         <AppLoading

@@ -6,10 +6,12 @@ import {
 
 import HomeScreen from './home';
 import LoginScreen from './login';
+import SignInScreen from './signIn';
 
 export default AppNav = createSwitchNavigator({
     Login: LoginScreen,
-    Home: HomeScreen
+    Home: HomeScreen,
+    SignIn: SignInScreen
   }, {
     initialRouteName: 'Login'
   });
