@@ -7,10 +7,16 @@ import {
 import HomeScreen from './home';
 import LoginScreen from './login';
 import SignInScreen from './signIn';
+import HistoryScreen from './history';
+
+const HomeStack = createStackNavigator({
+  Home: HomeScreen,
+  History: HistoryScreen
+});
 
 export default AppNav = createSwitchNavigator({
     Login: LoginScreen,
-    Home: HomeScreen,
+    Home: HomeStack,
     SignIn: SignInScreen
   }, {
     initialRouteName: 'Home'
