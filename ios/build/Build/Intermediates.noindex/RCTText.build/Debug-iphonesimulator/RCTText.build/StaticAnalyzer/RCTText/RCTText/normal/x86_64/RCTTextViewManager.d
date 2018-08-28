@@ -35,4 +35,5 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/Text/RCTTextView.h

@@ -2,6 +2,7 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextAttributes.m \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \

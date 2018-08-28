@@ -23,4 +23,8 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h

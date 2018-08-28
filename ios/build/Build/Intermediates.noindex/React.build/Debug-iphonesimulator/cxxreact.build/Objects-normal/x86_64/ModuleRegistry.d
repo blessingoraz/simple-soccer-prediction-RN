@@ -3,8 +3,8 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/ReactCommon/cxxreact/ModuleRegistry.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../ReactCommon/cxxreact/JSExecutor.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../ReactCommon/cxxreact/NativeModule.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Optional.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/dynamic.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Optional.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/dynamic.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/operators.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/user.hpp \
@@ -17,18 +17,18 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/posix_features.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/suffix.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/detail/workaround.hpp \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Range.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/FBString.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Portability.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Config.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/CPortability.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Hash.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/ApplyTuple.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Bits.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Builtins.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Assume.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/BitsDetail.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/BitIteratorDetail.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Range.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/FBString.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Portability.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Config.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/CPortability.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Hash.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/ApplyTuple.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Bits.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Builtins.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Assume.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/BitsDetail.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/BitIteratorDetail.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_adaptor.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/static_assert.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator.hpp \
@@ -223,13 +223,13 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Likely.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/SpookyHashV1.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/SpookyHashV2.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Malloc.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/Malloc.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/BitsFunctexcept.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Traits.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Likely.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/SpookyHashV1.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/SpookyHashV2.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Malloc.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/Malloc.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/BitsFunctexcept.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Traits.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_cv.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_rvalue_reference.hpp \
@@ -340,38 +340,38 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/type_identity.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/integral_promotion.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/promote.hpp \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Constexpr.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/String.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Constexpr.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/String.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/logging.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/log_severity.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/vlog_is_on.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/CpuId.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/RangeCommon.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/RangeSse42.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/dynamic-inl.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Conv.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/CpuId.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/RangeCommon.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/RangeSse42.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/dynamic-inl.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Conv.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/implicit_cast.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/double-conversion/double-conversion.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/double-conversion/utils.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Demangle.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Expected.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Preprocessor.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Unit.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Math.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Format.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/String.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Demangle.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Expected.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Preprocessor.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Unit.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Math.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Format.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/String.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/regex/pending/unicode_iterator.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/cstdint.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/assert.hpp \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/boost_1_63_0/boost/throw_exception.hpp \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/ExceptionString.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/FBVector.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/FormatTraits.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/ScopeGuard.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/UncaughtExceptionCounter.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/String-inl.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/FormatArg.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Format-inl.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Exception.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Windows.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/ExceptionString.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/FBVector.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/FormatTraits.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/ScopeGuard.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/UncaughtExceptionCounter.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/String-inl.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/FormatArg.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Format-inl.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Exception.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Windows.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/ReactCommon/cxxreact/SystraceSection.h

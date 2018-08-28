@@ -12,4 +12,5 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextTransform.h

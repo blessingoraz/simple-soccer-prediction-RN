@@ -29,4 +29,5 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextTransform.h

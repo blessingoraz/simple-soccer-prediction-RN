@@ -21,4 +21,5 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
-  /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextTransform.h

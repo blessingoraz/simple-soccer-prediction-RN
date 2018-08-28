@@ -32,4 +32,5 @@ dependencies: \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/blessingorazulume/Workspace/RN/rn-peoject/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
