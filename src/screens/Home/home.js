@@ -11,7 +11,7 @@ import {
 } from 'react-native';
 import { Card } from 'react-native-elements'
 import { withNavigation } from 'react-navigation';
-import TeamInfo from './teamInfo';
+import TeamInfo from '../../teamInfo';
 
 const SCREEN_WIDTH = Dimensions.get('window').width;
 const SCREEN_HEIGHT = Dimensions.get('window').height;

@@ -4,7 +4,6 @@ import {
   TextInput,
   View,
   StyleSheet,
-  Button,
   Dimensions,
   Animated,
   Easing,
@@ -51,13 +50,13 @@ export default class Login extends Component {
     return (
       <Animated.View style={styles.container}>
         <Animated.Image
-          source={require('../assets/backgroundImage.jpg')}
+          source={require('./images/backgroundImage.jpg')}
           style={[styles.backgroundImageContainer, { marginLeft, height: SCREEN_HEIGHT, width: SCREEN_WIDTH * 2 }]}
         />
 
         <Animated.View style={styles.loginOverlay}>
           <Animated.Image
-            source={require('../assets/ball.png')}
+            source={require('./images/ball.png')}
             style={{height: 50, width: 50}}
           />
           <View style={{marginTop: 10}}>
