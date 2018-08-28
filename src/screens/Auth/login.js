@@ -1,24 +1,18 @@
 import React, { Component } from 'react'
 import {
   Text,
-  TextInput,
-  View,
   StyleSheet,
-  Dimensions,
-  Animated,
-  Easing,
   TouchableOpacity
 } from 'react-native'
 
-import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons'
-
-const SCREEN_WIDTH = Dimensions.get('window').width
-const SCREEN_HEIGHT = Dimensions.get('window').height
+import { Animation } from './components/Animation'
+import { LogoContainer } from './components/Logo'
+import { FormContainer } from './components/Form'
+import { Input } from './components/TextInput'
 
 export default class Login extends Component {
   constructor () {
     super()
-    this.animatedValue = new Animated.Value(0)
     this.state = {
       username: null,
       email: null,
@@ -26,107 +20,40 @@ export default class Login extends Component {
     }
   }
 
-  componentDidMount () {
-    this.animate()
-  }
-
-  animate () {
-    this.animatedValue.setValue(0)
-    Animated.timing(
-      this.animatedValue, {
-        toValue: 1,
-        duration: 90000,
-        easing: Easing.linear
-      }
-    ).start(() => this.animate())
+  handleTextChange = (e) => {
+    console.log('get here')
   }
 
   render () {
-    const marginLeft = this.animatedValue.interpolate({
-      inputRange: [0, 1],
-      outputRange: [0, -SCREEN_WIDTH]
-    })
-
     return (
-      <Animated.View style={styles.container}>
-        <Animated.Image
-          source={require('./images/backgroundImage.jpg')}
-          style={[styles.backgroundImageContainer, { marginLeft, height: SCREEN_HEIGHT, width: SCREEN_WIDTH * 2 }]}
-        />
+      <Animation>
+        <LogoContainer>
+          <FormContainer iconName='account-outline'>
+            <Input onChange={this.handleTextChange}/>
+          </FormContainer>
 
-        <Animated.View style={styles.loginOverlay}>
-          <Animated.Image
-            source={require('./images/ball.png')}
-            style={{height: 50, width: 50}}
-          />
-          <View style={{marginTop: 10}}>
-            <View style={styles.textInputContainer}>
-              <MaterialCommunityIcons name='account-outline' size={30} color='white' style={{marginTop: 12}} />
-              <TextInput
-                style={styles.textInput}
-                onChangeText={(text) => this.setState({text})}
-                value={this.state.username}
-                underlineColorAndroid='transparent' />
-              <TextInput />
-            </View>
+          <FormContainer iconName='lock-outline'>
+            <Input onChange={this.handleTextChange}/>
+          </FormContainer>
 
-            <View style={styles.textInputContainer}>
-              <MaterialCommunityIcons name='lock-outline' size={30} color='white' style={{marginTop: 12}} />
-              <TextInput
-                style={styles.textInput}
-                onChangeText={(text) => this.setState({text})}
-                value={this.state.email}
-                underlineColorAndroid='transparent'
-                secureTextEntry />
-              <TextInput />
-            </View>
+          <TouchableOpacity style={styles.button}
+            onPress={() => this.props.navigation.navigate('Home')}>
+            <Text style={styles.buttonText}> LOGIN </Text>
+          </TouchableOpacity>
 
-            <TouchableOpacity style={styles.button}
-              onPress={() => this.props.navigation.navigate('Home')}>
-              <Text style={styles.buttonText}> LOGIN </Text>
-            </TouchableOpacity>
-
-            <TouchableOpacity
-              onPress={() => this.props.navigation.navigate('SignIn')}>
-              <Text style={{color: '#dddddd', fontSize: 16, marginTop: 35, textAlign: 'center'}}> No account yet? Create One </Text>
-            </TouchableOpacity>
-          </View>
-        </Animated.View>
-      </Animated.View>
+          <TouchableOpacity
+            onPress={() => this.props.navigation.navigate('SignIn')}>
+            <Text style={{color: '#dddddd', fontSize: 16, marginTop: 35, textAlign: 'center'}}> No account yet? Create One </Text>
+          </TouchableOpacity>
+        </LogoContainer>
+      </Animation>
     )
   }
 };
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1
-  },
-  loginOverlay: {
-    backgroundColor: '#137a15',
-    opacity: 0.8,
-    height: SCREEN_HEIGHT,
-    width: SCREEN_WIDTH,
-    justifyContent: 'center',
-    alignItems: 'center'
-  },
-  textInputContainer: {
-    flexDirection: 'row',
-    marginBottom: 20
-  },
   text: {
     color: 'white'
-  },
-  textInput: {
-    height: 40,
-    width: SCREEN_WIDTH / 1.3,
-    borderColor: 'white',
-    borderBottomWidth: 1
-  },
-  backgroundImageContainer: {
-    position: 'absolute',
-    left: 0,
-    right: 0,
-    opacity: 0.4
   },
   button: {
     backgroundColor: '#E4B13F',
