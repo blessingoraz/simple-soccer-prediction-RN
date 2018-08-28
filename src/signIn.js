@@ -2,13 +2,13 @@ import React, { Component } from 'react'
 import { Text, View, StyleSheet, Button } from 'react-native'
 
 export default class SigIn extends Component {
-  render() {
+  render () {
     return (
       <View style={styles.container}>
-        
+
         <Button
-            title='Go to homeScreen'
-            onPress={() => this.props.navigation.navigate('Home')}
+          title='Go to homeScreen'
+          onPress={() => this.props.navigation.navigate('Home')}
         />
       </View>
     )
@@ -16,10 +16,10 @@ export default class SigIn extends Component {
 };
 
 const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center',
-        backgroundColor: 'red'
-    }
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: 'red'
+  }
 })

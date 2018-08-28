@@ -1,14 +1,14 @@
-import React from 'react';
+import React from 'react'
 
 // import { Asset, AppLoading } from 'expo';
-import AppNav from './src/navigation';
+import AppNav from './src/navigation'
 
 export default class App extends React.Component {
   // state = {
   //   isReady: false,
   // };
 
-  render() {
+  render () {
     // if (!this.state.isReady) {
     //   return (
     //     <AppLoading
@@ -19,8 +19,8 @@ export default class App extends React.Component {
     //   );
     // }
     return (
-      <AppNav/>
-    );
+      <AppNav />
+    )
   }
 
   // async _cacheResourcesAsync() {

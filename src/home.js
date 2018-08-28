@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import {
+    Button,
     Dimensions,
     Image,
     Picker,
@@ -9,12 +10,13 @@ import {
     View
 } from 'react-native';
 import { Card } from 'react-native-elements'
+import { withNavigation } from 'react-navigation';
 import TeamInfo from './teamInfo';
 
 const SCREEN_WIDTH = Dimensions.get('window').width;
 const SCREEN_HEIGHT = Dimensions.get('window').height;
 
-export default class Home extends Component {
+class Home extends Component {
     state = {
         selectedTeam1: 1,
         selectedTeam2: 2
@@ -25,9 +27,18 @@ export default class Home extends Component {
         headerTitleStyle: {
             color: '#444',
             fontWeight: 'normal'
-        }
+        },
+        headerLeft: (
+            <Button
+              onPress={() => this.props.navigation.navigate('History')}
+              title="Predictions"
+              color="#000"
+            />
+        )
     }
+
     render() {
+        // console.log('this.props ===', this.props);
         const { selectedTeam1, selectedTeam2 } = this.state;
         const teamObj1 = TeamInfo.filter((team) => selectedTeam1 === team.id);
         const teamObj2 = TeamInfo.filter((team) => selectedTeam2 === team.id);
@@ -131,3 +142,5 @@ const styles = StyleSheet.create({
         // marginBottom: 20
     }
 })
+
+export default withNavigation(Home)
