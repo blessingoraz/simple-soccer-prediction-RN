@@ -1,9 +1,5 @@
 import React, { Component } from 'react'
-import {
-  Text,
-  StyleSheet,
-  TouchableOpacity
-} from 'react-native'
+import PropTypes from 'prop-types'
 
 import { Animation } from './components/Animation'
 import { LogoContainer } from './components/Logo'
@@ -22,8 +18,16 @@ export default class Login extends Component {
     }
   }
 
-  handleTextChange = (e) => {
-    console.log('get here')
+  static propTypes = {
+    navigation: PropTypes.object,
+    dispatch: PropTypes.func,
+    email: PropTypes.string,
+    username: PropTypes.string,
+    password: PropTypes.string
+  }
+
+  handleTextChange = (text) => {
+    console.log('get here', text)
   }
 
   toggleAuthType = () => {

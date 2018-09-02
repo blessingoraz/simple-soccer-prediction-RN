@@ -3,7 +3,7 @@ import { Provider } from 'react-redux'
 import EStyleSheet from 'react-native-extended-stylesheet'
 
 import Navigator from './src/config/routes'
-import store from './config/store'
+import store from './src/config/store'
 
 EStyleSheet.build({
   $primaryWhite: '#FFFFFF',
